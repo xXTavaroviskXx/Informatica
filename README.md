@@ -1,3 +1,7 @@
+Prova 20/05/2024 PBI
+
+![image](https://github.com/xXTavaroviskXx/Informatica/assets/168144175/8848ac7a-eb9a-4bb5-8fb6-5d792e318f71)
+
 
 POWER BI
 
