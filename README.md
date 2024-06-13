@@ -43,6 +43,9 @@ Atividade levantamento de custo para EMPRESA
 ![image](https://github.com/xXTavaroviskXx/Informatica/assets/168144175/6bc35f83-0102-4c20-ad24-dd293e2baa8b)
 
 
+Power apps
+
+![image](https://github.com/xXTavaroviskXx/Informatica/assets/168144175/fd3966e2-9a5a-4a59-bf00-9dd0c68afdf6)
 
 
 
