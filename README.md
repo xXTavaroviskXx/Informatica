@@ -48,4 +48,8 @@ Power apps
 ![image](https://github.com/xXTavaroviskXx/Informatica/assets/168144175/fd3966e2-9a5a-4a59-bf00-9dd0c68afdf6)
 
 
+Power automate 
+
+
+![image](https://github.com/xXTavaroviskXx/Informatica/assets/168144175/d1241231-8b53-4a1c-93a3-ce4c133cc10c)
 
